@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("question")
-public class QuestionController {
+public class QuestionController { // this is service
 
     @Autowired
     QuestionService questionService;
