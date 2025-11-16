@@ -3,6 +3,8 @@ package com.example.question_service;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//This is Question Class
+
 @SpringBootApplication
 public class QuestionServiceApplication {
 
